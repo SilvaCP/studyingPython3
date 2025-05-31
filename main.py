@@ -23,6 +23,8 @@ if idade == 25 and nome == "Filipe" and peso == 90: # !=25:
 else:
     print("Idade incorreta!")
 '''
+
+'''
 import calendar
 
 # Solicita ao usuário o mês e o ano
@@ -37,3 +39,6 @@ dias = ['Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-
 
 # Exibe o resultado
 print(f"O dia da semana do seu nascimento foi: {dias[dia_da_semana]}")
+
+'''
+print(2030)
