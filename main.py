@@ -41,4 +41,4 @@ dias = ['Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-
 print(f"O dia da semana do seu nascimento foi: {dias[dia_da_semana]}")
 
 '''
-print(2030)
+print("2030 - Livro do cientista Nicoleles")
